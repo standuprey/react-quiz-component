@@ -61,8 +61,9 @@
   "dependencies": {
     "dompurify": "^3.0.0",
     "nanoid": "^5.0.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "snarkdown": "^2.0.0"
-  }
+  },
+  "packageManager": "pnpm@8.7.5+sha1.735d4d0e6fc66c4d2d64b269b08e5995b19230ca"
 }
